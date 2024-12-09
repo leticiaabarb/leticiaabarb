@@ -15,7 +15,7 @@ I'm a junior back-end developer passionate about problem-solving, system archite
 - Landing a developer role while preparing for future growth into system design and architecture roles.
 
 🚀 **Current Projects**:
-- [Website Monitoring App](https://github.com/leticiaaabarb/website-monitoring-app)  
+- [Website Monitoring App](https://github.com/leticiaabarb/website-monitoring-app)  
 An application to monitor the uptime status of websites at regular intervals and alert users if a website goes down. Designed to help website owners ensure their websites remain accessible.
 
 - **Tech Stack**: Node.js, Express, MongoDB, Axios, Node-Cron.
@@ -30,7 +30,7 @@ An application to monitor the uptime status of websites at regular intervals and
   - Track response times and generate performance reports.
 
 ---
-- [Library API](https://github.com/leticiaaabarb/LibraryAPI)  
+- [Library API](https://github.com/leticiaabarb/LibraryAPI)  
 A CRUD API for managing books and authors, developed to explore backend development fundamentals like routing, database management, and input validation.
 
 - **Tech Stack**: Node.js, Express, MongoDB, Mongoose.
