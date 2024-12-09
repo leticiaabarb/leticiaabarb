@@ -1,51 +1,46 @@
 # Hi there, I'm Leticia 👋
 
-I'm a junior back-end developer passionate about problem-solving, system architecture, and building meaningful applications. Based in Sweden 🇸🇪, I'm focused on sharpening my skills and creating projects that demonstrate my ability to learn, adapt, and contribute.
+I'm a junior back-end developer passionate about problem-solving, system architecture, and building meaningful applications. Based in Sweden 🇸🇪, I'm focused on sharpening my skills and creating impactful projects that demonstrate my ability to learn, adapt, and contribute.
 
 🌟 **What I Bring**:
 - Hands-on experience with **Node.js**, **Python**, **FastAPI**, and **Express**.
 - Proficiency with databases: **PostgreSQL** (SQL) and **MongoDB** (NoSQL).
 - Familiarity with **Docker** for containerization and deployment.
 - Experience with **Jest** for testing backend applications.
-- Exploring **event-driven architecture** and **scalable backend systems** to create robust applications.
+- Exploring **event-driven architecture** and **scalable backend systems**.
 
 🎯 **Current Goals**:
-- Learning NestJS, Typescript and AWS.
-- Build small but impactful projects with a focus on solving real-world problems.
-- Landing a developer role while preparing for future growth into system design and architecture roles.
+- Learning **NestJS**, **TypeScript**, and **AWS**.
+- Building small but impactful projects focused on solving real-world problems.
+- Preparing for growth into system design and architecture roles.
 
-🚀 **Current Projects**:
-- [Website Monitoring App](https://github.com/leticiaabarb/website-monitoring-app)  
-An application to monitor the uptime status of websites at regular intervals and alert users if a website goes down. Designed to help website owners ensure their websites remain accessible.
+🚀 **Highlighted Projects**:
+### [Website Monitoring App](https://github.com/leticiaabarb/website-monitoring-app)
+Monitor the uptime status of websites and alert users if a site goes down.
 
 - **Tech Stack**: Node.js, Express, MongoDB, Axios, Node-Cron.
-- **Features**:
+- **Key Features**:
   - Add and retrieve monitored URLs through API endpoints.
-  - Periodically check website status using `node-cron`.
-  - Notify users of downtime via email (or logs).
-  - Store monitored websites and their statuses in MongoDB.
-- **Future Improvements**:
+  - Scheduled uptime checks using `node-cron`.
+  - Alerts via email (or logs) for website downtime.
+  - MongoDB database for storing website data.
+- **Future Plans**:
   - Add webhook support for real-time alerts.
-  - Implement a frontend dashboard for visualizing monitored websites.
-  - Track response times and generate performance reports.
+  - Build a frontend dashboard to display website statuses.
 
----
-- [Library API](https://github.com/leticiaabarb/LibraryAPI)  
-A CRUD API for managing books and authors, developed to explore backend development fundamentals like routing, database management, and input validation.
+### [Library API](https://github.com/leticiaabarb/LibraryAPI)
+A CRUD API for managing books and authors, built to practice routing, database management, and input validation.
 
 - **Tech Stack**: Node.js, Express, MongoDB, Mongoose.
-- **Features**:
-  - Create, read, update, and delete books and authors.
-  - Custom input validation for user-submitted data.
-  - Modular and maintainable code structure.
-- **Future Improvements**:
-  - Add authentication and authorization for secure access.
-  - Implement advanced filtering and sorting for better data management.
+- **Key Features**:
+  - Full CRUD functionality for books and authors.
+  - Custom input validation.
+  - Clean and maintainable code structure.
+- **Future Plans**:
+  - Add authentication and advanced filtering.
 
----
-  
 📫 **Get in Touch**:
-- [LinkedIn] [www.linkedin.com/in/letícia-barbosaa]
+- [LinkedIn](https://www.linkedin.com/in/leticia-barbosaa)
 - Email: leticiabarbosaa98@gmail.com
 
-💡 **Fun Fact**: I love learning about Software Architecture and System Design, and finding ways to make complex systems easier to understand!
+💡 **Fun Fact**: I love learning about **Software Architecture** and **System Design** and finding ways to simplify complex systems!
