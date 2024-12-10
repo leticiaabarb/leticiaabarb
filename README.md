@@ -43,4 +43,3 @@ A CRUD API for managing books and authors, built to practice routing, database m
 - [LinkedIn](https://www.linkedin.com/in/leticia-barbosaa)
 - Email: leticiabarbosaa98@gmail.com
 
-💡 **Fun Fact**: I love learning about **Software Architecture** and **System Design** and finding ways to simplify complex systems!
