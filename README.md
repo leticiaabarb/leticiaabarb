@@ -1,6 +1,6 @@
 # Hi there, I'm Leticia 👋
 
-I'm a junior back-end developer passionate about problem-solving, system architecture, and building meaningful applications. Based in Sweden 🇸🇪, I'm focused on sharpening my skills and creating projects that demonstrate my ability to learn, adapt, and contribute.
+I'm a junior back-end developer based in Sweden 🇸🇪.
 
 🌟 **What I Bring**:
 - Hands-on experience with **Node.js**, **Python**, **FastAPI**, and **Express**.
