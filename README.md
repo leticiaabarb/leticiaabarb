@@ -12,7 +12,6 @@ I'm a junior developer based in Sweden 🇸🇪.
 🎯 **Current Goals**:
 - Learning **NestJS**, **TypeScript**, and **AWS**.
 - Building small but impactful projects focused on solving real-world problems.
-- Preparing for growth into system design and architecture roles.
 
 🚀 **Highlighted Projects**:
 ### [Website Monitoring App](https://github.com/leticiaabarb/website-monitoring-app)
